@@ -1,54 +1,42 @@
-# 👋 Hello, I'm Dylan Yang
-### Senior Software Engineer | Building Scalable & Performant Systems
+#### <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Dylan-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF" alt="Hi, I'm Dylan" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🔭%20Currently%20focusing%20on-High--performance%20Systems%20with%20Rust-000000?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/⚡%20Specialized%20in-React%20Architecture%20%26%20Type--safe-000000?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/⛓%20Experienced%20in-Crypto%20Ecosystem%20%26%20DApp%20Development-000000?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/💬%20Open%20to-Technical%20Discussions%20%26%20Collaboration-000000?style=flat-square" />
+</p>
+
+---
+
+#### <img src="https://img.shields.io/badge/About%20Me-FFFFFF?style=for-the-badge&logo=googlesheets&logoColor=000000&labelColor=FFFFFF" alt="About Me" />
 
 <p align="left">
   <a href="https://www.dylanyang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal%20Site-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dylan-yang-0b5536105" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dylanyang0523@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+#### <img src="https://img.shields.io/badge/Tech%20Stack-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=FFFFFF" alt="Tech Stack" />
 
-**Frontend & Logic**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Systems & Backend**
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Tools & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+  </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DylanYang0523&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanYang0523&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanYang0523&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on high-performance applications with **Rust**.
-- ⚡ In my spare time, I contribute to Open Source and explore **WebAssembly**.
-- 💬 Ask me about **React architecture**, **TypeScript type-safety**, or **Rust performance**.
-- 📫 How to reach me: Check my [Personal Site](https://www.dylanyang.com/) for more info.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Building+clean+code+and+better+world;I+speak+both+Typescript+and+Human;Let's+build+something+cool+together!+🚀" />
 </p>
